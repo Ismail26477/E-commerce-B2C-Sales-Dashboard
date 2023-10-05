@@ -2,7 +2,7 @@
 I'm thrilled to present my interactive E-commerce B2C Sales Dashboard, which I've developed using Power BI. This all-inclusive dashboard enables you to monitor and analyze your online sales throughout India, offering invaluable insights to fuel your business growth. 📊✨ 🎯 Objective:
 
 The owner of the Store wanted us to create a dashboard that enables them to effectively monitor and analyse their online sales across India, supporting data-driven decision-making.
-
+ 
 📌 Tasks Performed:
 
 ✅ Transformed data using Power Query for optimal analysis.
